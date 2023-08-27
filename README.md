@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to my Profile
 
-I'm Yashasvi, a passionate software developer from bengaluru. Thanks for visiting my GitHub profile. Feel free to explore, learn, and collaborate!
+I'm Yashasvi, a passionate software developer from Bengaluru. Thanks for visiting my GitHub profile. Feel free to explore, learn, and collaborate!
 
 ## 🌱  Currently Learning
 
